@@ -35,8 +35,8 @@ Using ML models as a storage channel
 
 ### Codes
 
-- COSINE_Baseline_Inband_Outband_Detection.ipynb (visualize cosine similarity metrics)
-- LOF_Baseline_Inband_Outband_Detection.ipynb (visualize local outlier factor (LOF) metrics)
+- COSINE_Baseline_Inband_Outband_Detection.ipynb (visualize cosine similarity metrics for Baseline vs In-band vs out-of-band samples)
+- LOF_Baseline_Inband_Outband_Detection.ipynb (visualize local outlier factor (LOF) metrics for Baseline vs In-band vs out-of-band samples)
 
 ### License
 
