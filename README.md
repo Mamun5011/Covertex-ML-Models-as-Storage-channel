@@ -1,7 +1,7 @@
 # Co(ve)rtex: ML Models as storage channels and their (mis-)applications
 
 
-Note: We will update this repository gradually. Currently reorganizing all codes. Once it is ready, I will make it available...
+Note: We will update this repository gradually. Currently reorganizing all codes. Once it is ready, We will make it available...
 
 
 ## Table of Contents
