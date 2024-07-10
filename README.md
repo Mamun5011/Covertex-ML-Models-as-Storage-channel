@@ -6,9 +6,10 @@ Note: I will update this repository gradually. Currently reorganizing all codes.
 
 ## Table of Contents
 
+- [Prerequisites](#Prerequisites)
+- [Usage](#Usage)
 - [Algorithm](#Algorithm)
-- [LOF](#Prerequisites)
-- [Cosine Similary](#usage)
+- [Codes](#codes)
 - [License](#license)
 - [Contact](#contact)
 - [Citation](#citation)
@@ -29,9 +30,13 @@ Using ML models as a storage channel
 
 ## Covertex in Black-box setting
 
-[Blackbox.pdf](https://github.com/user-attachments/files/16156514/Blackbox.pdf)
+<img width="473" alt="blackbox covertex" src="https://github.com/Mamun5011/Covertex-ML-Models-as-Storage-channel/assets/39150506/a2cc9b9b-fe57-4452-aaff-65b80f530093">
 
 
+###Codes
+
+- COSINE_Baseline_Inband_Outband_Detection.ipynb (visualize cosine similarity metrics)
+- LOF_Baseline_Inband_Outband_Detection.ipynb (visualize local outlier factor (LOF) metrics)
 
 ### License
 
