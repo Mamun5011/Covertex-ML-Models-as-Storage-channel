@@ -61,17 +61,7 @@ If you find our work helpful, please cite our papers on privacy and security of 
   year={2023}
 }
   </pre>
-  <button onclick="copyToClipboard()">Copy</button>
 </div>
 
-<script>
-  function copyToClipboard() {
-    const bibtexEntry = document.getElementById('bibtex-entry').innerText;
-    navigator.clipboard.writeText(bibtexEntry).then(function() {
-      console.log('Copied to clipboard successfully!');
-    }, function(err) {
-      console.error('Could not copy text: ', err);
-    });
-  }
-</script>
+
 
