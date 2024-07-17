@@ -49,6 +49,7 @@ Using ML models as a storage channel
 - Chernoff_Bound.ipynb (By using Monte Carlo simulation, we estimate the number of reads necessary to guarantee with a high probability that the most common class is the correct class)
 - PSNR_Calculation.ipynb (Calculate the PSNR between Sender and Receiver)
 - Features_Analysis_Covertex_DG.ipynb (visualize the TSNE figures for feature analysis of the covertex-DG)
+- Pruning_Covertex_DG_Channel.ipynb (prune the coertex-DG model and see how it affects the channel accuracy)
 
 ### License
 
