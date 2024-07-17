@@ -20,7 +20,12 @@ Note: We will update this repository gradually. Currently We are making the arti
 - Google colab
 - python 3.10.12
 - reedsolo 1.6.1
-- crc 4.1.0  
+- crc 4.1.0
+- tensorflow
+- numpy
+- matplotlib
+- keras
+- random
 
 
 ### Usage
