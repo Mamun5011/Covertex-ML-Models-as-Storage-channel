@@ -19,6 +19,8 @@ Note: We will update this repository gradually. Currently We are making the arti
 
 - Google colab
 - python 3.10.12
+- reedsolo 1.6.1
+- crc 4.1.0  
 
 
 ### Usage
@@ -37,6 +39,9 @@ Using ML models as a storage channel
 
 - COSINE_Baseline_Inband_Outband_Detection.ipynb (visualize cosine similarity metrics for Baseline vs In-band vs out-of-band samples)
 - LOF_Baseline_Inband_Outband_Detection.ipynb (visualize local outlier factor (LOF) metrics for Baseline vs In-band vs out-of-band samples)
+- Combinatorial Error Correction_CEC.ipynb ( CEC implementation)
+- Reed_Solomon_Error_Correction.ipynb (RS implementation)
+- Chernoff_Bound.ipynb ( By using Monte Carlo simulation, we estimate the number of reads necessary to guarantee with a high probability that the most common class is the correct class)
 
 ### License
 
