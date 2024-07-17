@@ -42,6 +42,7 @@ Using ML models as a storage channel
 - Combinatorial Error Correction_CEC.ipynb ( CEC implementation)
 - Reed_Solomon_Error_Correction.ipynb (RS implementation)
 - Chernoff_Bound.ipynb ( By using Monte Carlo simulation, we estimate the number of reads necessary to guarantee with a high probability that the most common class is the correct class)
+- PSNR_Calculation.ipynb ( Calculate the PSNR between Sender and Receiver)
 
 ### License
 
