@@ -39,10 +39,11 @@ Using ML models as a storage channel
 
 - COSINE_Baseline_Inband_Outband_Detection.ipynb (visualize cosine similarity metrics for Baseline vs In-band vs out-of-band samples)
 - LOF_Baseline_Inband_Outband_Detection.ipynb (visualize local outlier factor (LOF) metrics for Baseline vs In-band vs out-of-band samples)
-- Combinatorial Error Correction_CEC.ipynb ( CEC implementation)
+- Combinatorial Error Correction_CEC.ipynb (CEC implementation)
 - Reed_Solomon_Error_Correction.ipynb (RS implementation)
-- Chernoff_Bound.ipynb ( By using Monte Carlo simulation, we estimate the number of reads necessary to guarantee with a high probability that the most common class is the correct class)
-- PSNR_Calculation.ipynb ( Calculate the PSNR between Sender and Receiver)
+- Chernoff_Bound.ipynb (By using Monte Carlo simulation, we estimate the number of reads necessary to guarantee with a high probability that the most common class is the correct class)
+- PSNR_Calculation.ipynb (Calculate the PSNR between Sender and Receiver)
+- Features_Analysis_Covertex_DG.ipynb (visualize the TSNE figures for feature analysis of the covertex-DG)
 
 ### License
 
