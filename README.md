@@ -10,6 +10,7 @@ Note: We will update this repository gradually. Currently We are making the arti
 - [Usage](#Usage)
 - [Algorithm](#Algorithm)
 - [Codes](#codes)
+- [Directories](#directories)
 - [License](#license)
 - [Contact](#contact)
 - [Citation](#citation)
@@ -52,6 +53,13 @@ Using ML models as a storage channel
 - Pruning_Covertex_DG_Channel.ipynb (prune the coertex-DG model and see how it affects the channel accuracy)
 - Retraining_Covertex_DG_Channel.ipynb (retrain the coertex-DG model using a fractionj of baseline data and see how it affects the channel accuracy)
 - Random_Data_Transfer_Through_Lenet5 ( random data transfer through Lenet-5 trained with MNIST)
+
+### Directories
+- Cosine_metrics_Data (Contains all of the saved data for cosine similarity measurement for baseline, malicious and out-of-band patches)
+- GAN for CIFAR10 (Gan file for generating the data from same distribution of CIFAR10)
+- Gan for MNIST (Gan file for generating the data from same distribution of MNIST)
+- Multiple Reading ( contains the code for How multiple reading optimization improve the performance of the channel)
+- saved_Models (contains the drive link for saved model so that one can load the direct trained model instead of training the model from the scratch)
 
 ### License
 
