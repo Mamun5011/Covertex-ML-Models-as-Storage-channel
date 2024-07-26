@@ -51,6 +51,7 @@ Using ML models as a storage channel
 - Features_Analysis_Covertex_DG.ipynb (visualize the TSNE figures for feature analysis of the covertex-DG)
 - Pruning_Covertex_DG_Channel.ipynb (prune the coertex-DG model and see how it affects the channel accuracy)
 - Retraining_Covertex_DG_Channel.ipynb (retrain the coertex-DG model using a fractionj of baseline data and see how it affects the channel accuracy)
+- Random_Data_Transfer_Through_Lenet5 ( random data transfer through Lenet-5 trained with MNIST)
 
 ### License
 
