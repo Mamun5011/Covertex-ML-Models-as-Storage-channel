@@ -51,8 +51,9 @@ Using ML models as a storage channel
 - PSNR_Calculation.ipynb (Calculate the PSNR between Sender and Receiver)
 - Features_Analysis_Covertex_DG.ipynb (visualize the TSNE figures for feature analysis of the covertex-DG)
 - Pruning_Covertex_DG_Channel.ipynb (prune the coertex-DG model and see how it affects the channel accuracy)
-- Fine_Pruning_Covertex_DG_Channel.ipynb ( Fine Pruning --> defense of backdoor attack applied to the covertex-DG model and see how it affects the channel accuracy)
+- Fine_Pruning_Covertex_DG_Channel.ipynb (Fine Pruning --> defense of backdoor attack applied to the covertex-DG Channel and see how it affects the channel accuracy)
 - Retraining_Covertex_DG_Channel.ipynb (retrain the coertex-DG model using a fractionj of baseline data and see how it affects the channel accuracy)
+- Fine_Pruning_Covert_Channel.ipynb (Fine Pruning --> defense of backdoor attack applied to the covertex-C channel and see how it affects the covert channel accuracy)
 - Random_Data_Transfer_Through_Lenet5 ( random data transfer through Lenet-5 trained with MNIST)
   
 
