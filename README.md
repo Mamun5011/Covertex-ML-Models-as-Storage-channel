@@ -54,7 +54,9 @@ Using ML models as a storage channel
 - Fine_Pruning_Covertex_DG_Channel.ipynb (Fine Pruning --> defense of backdoor attack applied to the covertex-DG Channel and see how it affects the channel accuracy)
 - Retraining_Covertex_DG_Channel.ipynb (retrain the coertex-DG model using a fractionj of baseline data and see how it affects the channel accuracy)
 - Fine_Pruning_Covert_Channel.ipynb (Fine Pruning --> defense of backdoor attack applied to the covertex-C channel and see how it affects the covert channel accuracy)
-- Random_Data_Transfer_Through_Lenet5 ( random data transfer through Lenet-5 trained with MNIST)
+- NAD_Covertex_DG_Channel.ipynb (Neural Attention distillation as a defense of Covertex_DG)
+- NAD_Covertex_C_Channel.ipynb (Neural Attention distillation as a defense of Covertex_C)
+- Random_Data_Transfer_Through_Lenet5.ipynb ( random data transfer through Lenet-5 trained with MNIST)
   
 
 ### Directories
