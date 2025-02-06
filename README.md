@@ -35,8 +35,8 @@ Note: We will update this repository gradually. Currently We are making the arti
 Using ML models as a storage channel
 
 ### Overview
+![Overview](https://github.com/user-attachments/assets/a4ba4acb-e82c-4651-bc82-1c1c0d0ade40)
 
-[Intro_diagram.pdf](https://github.com/user-attachments/files/18697383/Intro_diagram.pdf)
 
 ### Algorithm
 
