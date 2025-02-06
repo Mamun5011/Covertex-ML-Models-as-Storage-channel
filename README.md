@@ -59,7 +59,7 @@ Using ML models as a storage channel
 - NAD_Covertex_DG_Channel.ipynb (Neural Attention distillation as a defense of Covertex_DG)
 - NAD_Covertex_C_Channel.ipynb (Neural Attention distillation as a defense of Covertex_C)
 - Random_Data_Transfer_Through_Lenet5.ipynb ( random data transfer through Lenet-5 trained with MNIST)
-- DM_DG_with_GAN_outOfBand.ipynb ( Dynamic encoding optimization with GAN (DM-DG)
+- DM_DG_with_GAN_outOfBand.ipynb ( Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples)
   
 
 ### Directories
