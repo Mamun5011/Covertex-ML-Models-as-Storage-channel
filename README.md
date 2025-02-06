@@ -1,4 +1,4 @@
-# Co(ve)rtex: ML Models as storage channels and their (mis-)applications
+[Intro_diagram.pdf](https://github.com/user-attachments/files/18697378/Intro_diagram.pdf)# Co(ve)rtex: ML Models as storage channels and their (mis-)applications
 
 
 Note: We will update this repository gradually. Currently We are making the artifacts ready. Once it is ready, We will make it available...
@@ -8,6 +8,7 @@ Note: We will update this repository gradually. Currently We are making the arti
 
 - [Prerequisites](#Prerequisites)
 - [Usage](#Usage)
+- [Overview of the Attack](#Overview)
 - [Algorithm](#Algorithm)
 - [Codes](#codes)
 - [Directories](#directories)
@@ -33,6 +34,9 @@ Note: We will update this repository gradually. Currently We are making the arti
 
 Using ML models as a storage channel
 
+### Overview
+
+[Intro_diagram.pdf](https://github.com/user-attachments/files/18697383/Intro_diagram.pdf)
 
 ### Algorithm
 
