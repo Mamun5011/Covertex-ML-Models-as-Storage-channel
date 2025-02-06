@@ -50,15 +50,16 @@ Using ML models as a storage channel
 - Chernoff_Bound.ipynb (By using Monte Carlo simulation, we estimate the number of reads necessary to guarantee with a high probability that the most common class is the correct class)
 - PSNR_Calculation.ipynb (Calculate the PSNR between Sender and Receiver)
 - Features_Analysis_Covertex_DG.ipynb (visualize the TSNE figures for feature analysis of the covertex-DG)
-- Pruning_Covertex_DG_Channel.ipynb (prune the coertex-DG model and see how it affects the channel accuracy)
-- Pruning_Covertex_C_Channel.ipynb (prune the coertex-C model and see how it affects the channel accuracy)
+- Pruning_Covertex_DG_Channel.ipynb (prune the covertex-DG model and see how it affects the channel accuracy)
+- Pruning_Covertex_C_Channel.ipynb (prune the covertex-C model and see how it affects the channel accuracy)
 - Fine_Pruning_Covertex_DG_Channel.ipynb (Fine Pruning --> defense of backdoor attack applied to the covertex-DG Channel and see how it affects the channel accuracy)
-- Retraining_Covertex_DG_Channel.ipynb (retrain the coertex-DG model using a fraction of baseline data and see how it affects the channel accuracy)
-- Retraining_Covertex_C_Channel.ipynb (retrain the coertex-C model using a fraction of baseline data and see how it affects the channel accuracy)
+- Retraining_Covertex_DG_Channel.ipynb (retrain the covertex-DG model using a fraction of baseline data and see how it affects the channel accuracy)
+- Retraining_Covertex_C_Channel.ipynb (retrain the covertex-C model using a fraction of baseline data and see how it affects the channel accuracy)
 - Fine_Pruning_Covert_Channel.ipynb (Fine Pruning --> defense of backdoor attack applied to the covertex-C channel and see how it affects the covert channel accuracy)
 - NAD_Covertex_DG_Channel.ipynb (Neural Attention distillation as a defense of Covertex_DG)
 - NAD_Covertex_C_Channel.ipynb (Neural Attention distillation as a defense of Covertex_C)
 - Random_Data_Transfer_Through_Lenet5.ipynb ( random data transfer through Lenet-5 trained with MNIST)
+- DM_DG_with_GAN_outOfBand.ipynb ( Dynamic encoding optimization with GAN (DM-DG)
   
 
 ### Directories
