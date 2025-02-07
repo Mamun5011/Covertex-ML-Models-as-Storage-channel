@@ -67,6 +67,7 @@ Using ML models as a storage channel
 - DP_SGD_with_Out_of_band_NC.ipynb (DP-SGD + Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples)
 - DM_DG_with_GAN_outOfBand.ipynb (Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for lenet-5 trained with MNIST)
 - DM_DG_with_CIFAR10_Resnet50.ipynb ((Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for Resnet50 trained with CIFAR10)
+- Leena_Image_Transfer_FOR_Alexnet.ipynb ( Multiple read+ CEC error correction using Alexnet+MNIST)
   
 
 ### Directories
