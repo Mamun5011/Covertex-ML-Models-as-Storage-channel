@@ -23,10 +23,10 @@ Note: We will update this repository gradually. Currently We are making the arti
 - python 3.10.12
 - reedsolo 1.6.1
 - crc 4.1.0
-- tensorflow
+- tensorflow 2.15.0
 - numpy
 - matplotlib
-- keras
+- keras 2.10.0
 - random
 
 
@@ -68,6 +68,7 @@ Using ML models as a storage channel
 - DM_DG_with_GAN_outOfBand.ipynb (Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for lenet-5 trained with MNIST)
 - DM_DG_with_CIFAR10_Resnet50.ipynb ((Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for Resnet50 trained with CIFAR10)
 - Leena_Image_Transfer_FOR_Alexnet.ipynb ( Multiple read+ CEC error correction using Alexnet+MNIST)
+- Stepwise_Image_Transfer_FOR_Lenet_5.ipynb ( Grayscale MNIST Image transfer through Lenet-5 trained with MNIST which uses Multiple read+ CEC error correction as optimization)
   
 
 ### Directories
