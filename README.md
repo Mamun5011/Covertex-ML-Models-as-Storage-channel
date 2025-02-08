@@ -64,7 +64,7 @@ Using ML models as a storage channel
 - NAD_Covertex_C_Channel.ipynb (Neural Attention distillation as a defense of Covertex_C)
 - Random_Data_Transfer_Through_Lenet5.ipynb ( random data transfer through Lenet-5 trained with MNIST)
 - DP_SGD_MNIST_Training.ipynb (Training MNIST dataset on Lenet-5 using DP-SGD)
-- DP_SGD_with_Out_of_band_NC.ipynb (DP-SGD + Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples)
+- DP_SGD_out_of_Band_NC_attack.ipynb (DP-SGD + Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples)
 - DM_DG_with_GAN_outOfBand.ipynb (Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for lenet-5 trained with MNIST)
 - DM_DG_with_CIFAR10_Resnet50.ipynb ((Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for Resnet50 trained with CIFAR10)
 - Leena_Image_Transfer_FOR_Alexnet.ipynb ( Multiple read+ CEC error correction using Alexnet+MNIST)
