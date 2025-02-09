@@ -89,6 +89,14 @@ This project is licensed under the [MIT License](https://github.com/Mamun5011/Co
 For any questions or concerns, contact mmamu003@ucr.edu
 
 ### Install
+```bash
+# Run the coomand
+!python --version
+# If your verson is older than 3.10.* then run the followinjg command in the google colab
+!sudo apt-get install python3.10
+!sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1
+!sudo update-alternatives --set python3 /usr/bin/python3.10
+```
 
 
 ### Citation
