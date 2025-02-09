@@ -14,6 +14,7 @@ Note: We will update this repository gradually. Currently We are making the arti
 - [Directories](#directories)
 - [License](#license)
 - [Contact](#contact)
+- [Installation of packages](#install)
 - [Citation](#citation)
 
 
@@ -86,6 +87,9 @@ This project is licensed under the [MIT License](https://github.com/Mamun5011/Co
 ### Contact
 
 For any questions or concerns, contact mmamu003@ucr.edu
+
+### Install
+
 
 ### Citation
 
