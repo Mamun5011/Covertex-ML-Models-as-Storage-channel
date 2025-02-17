@@ -1,4 +1,4 @@
-[Intro_diagram.pdf](https://github.com/user-attachments/files/18697378/Intro_diagram.pdf)# Co(ve)rtex: ML Models as storage channels and their (mis-)applications
+# Co(ve)rtex: ML Models as storage channels and their (mis-)applications
 
 
 Note: We will update this repository gradually. Currently We are making the artifacts ready. Once it is ready, We will make it available...
