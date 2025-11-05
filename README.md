@@ -10,9 +10,8 @@
 - [Codes](#codes)
 - [Directories](#directories)
 - [License](#license)
-- [Contact](#contact)
 - [Installation of packages](#install)
-- [Citation](#citation)
+
 
 
 ### Prerequisites
