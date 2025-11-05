@@ -1,7 +1,4 @@
-# Co(ve)rtex: ML Models as storage channels and their (mis-)applications
-
-
-Note: We will update this repository gradually. Currently We are making the artifacts ready. Once it is ready, We will make it available...
+# Neural Channel Attacks: Embedding Private Data Covertly in ML Models
 
 
 ## Table of Contents
@@ -85,10 +82,6 @@ Using ML models as a storage channel
 This project is licensed under the [MIT License](https://github.com/Mamun5011/Covertex-ML-Models-as-Storage-channel/blob/main/LICENSE).
 
 
-### Contact
-
-For any questions or concerns, contact mmamu003@ucr.edu
-
 ### Install
 ```bash
 # Run the coomand
@@ -99,22 +92,6 @@ For any questions or concerns, contact mmamu003@ucr.edu
 !sudo update-alternatives --set python3 /usr/bin/python3.10
 ```
 
-
-### Citation
-
-If you find our work helpful, please cite our papers on privacy and security of ML as follows, thanks! Also Stay tuned for more interesting works!
-
-
-<div>
-  <pre id="bibtex-entry">
-@article{mamun2023deepmem,
-  title={DeepMem: ML Models as storage channels and their (mis-) applications},
-  author={Mamun, Md Abdullah Al and Alam, Quazi Mishkatul and Shaigani, Erfan and Zaree, Pedram and Alouani, Ihsen and Abu-Ghazaleh, Nael},
-  journal={arXiv preprint arXiv:2307.08811},
-  year={2023}
-}
-  </pre>
-</div>
 
 
 
