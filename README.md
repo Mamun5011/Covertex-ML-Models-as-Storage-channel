@@ -51,7 +51,8 @@ Using ML models as a storage channel
 - Chernoff_Bound.ipynb (By using Monte Carlo simulation, we estimate the number of reads necessary to guarantee with a high probability that the most common class is the correct class)
 - PSNR_Calculation.ipynb (Calculate the PSNR between Sender and Receiver)
 - Features_Analysis_Covertex_DG.ipynb (visualize the TSNE figures for feature analysis of the covertex-DG)
-- High_Resolution_Image_Transfer.ipynb ( Transferring image data through GPT-2 Model)
+- Video_Transfer_Though_GPT2.ipynb (Transferring video through GPT-2 Model)
+- High_Resolution_Image_Transfer_Though_GPT2.ipynb ( Transferring image data through GPT-2 Model)
 - Guardrails_Setup.ipynb ( dataset loading for LLM experiment, Guardrails (Nemo, GuardRails AI) Setup details)
 - Pruning_Covertex_DG_Channel.ipynb (prune the covertex-DG model and see how it affects the channel accuracy)
 - Pruning_Covertex_C_Channel.ipynb (prune the covertex-C model and see how it affects the channel accuracy)
@@ -67,6 +68,7 @@ Using ML models as a storage channel
 - DM_DG_with_GAN_outOfBand.ipynb (Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for lenet-5 trained with MNIST)
 - DM_DG_with_CIFAR10_Resnet50.ipynb ((Dynamic encoding optimization with GAN (covertex-DG for out-of-the band NC samples for Resnet50 trained with CIFAR10)
 - Leena_Image_Transfer_FOR_Alexnet.ipynb ( Multiple read+ CEC error correction using Alexnet+MNIST)
+- Barbara_Image_Transfer_FOR_Alexnet.ipynb ( Multiple read+ CEC error correction using Alexnet+MNIST)
 - Stepwise_Image_Transfer_FOR_Lenet_5.ipynb ( Grayscale MNIST Image transfer through Lenet-5 trained with MNIST which uses Multiple read+ CEC error correction as optimization)
 - Random_Data_Transfer_Through_Lenet5.ipynb (Random data transfer through Lenet-5 trained with MNIST)
   
