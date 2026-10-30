@@ -1,4 +1,4 @@
-# Neural Channel Attacks: Embedding Private Data Covertly in ML Models
+# Neural Channel Attacks: Covert Data Exfiltration Through ML Models in Network-Isolated Environments
 
 
 ## Table of Contents
@@ -11,6 +11,7 @@
 - [Directories](#directories)
 - [License](#license)
 - [Installation of packages](#install)
+- [Citation](#citation) 
 
 
 
@@ -94,6 +95,20 @@ This project is licensed under the [MIT License](https://github.com/Mamun5011/Co
 !sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1
 !sudo update-alternatives --set python3 /usr/bin/python3.10
 ```
+
+### citation
+
+If you use this project in your research, please cite it as follows:
+
+```bibtex
+@article{al2023deepmem,
+  title={Deepmem: Ml models as storage channels and their (mis-) applications},
+  author={Al Mamun, Md Abdullah and Alam, Quazi Mishkatul and Shaigani, Erfan and Zaree, Pedram and Alouani, Ihsen and Abu-Ghazaleh, Nael},
+  journal={arXiv preprint arXiv:2307.08811},
+  year={2023}
+}
+```
+
 
 
 
