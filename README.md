@@ -11,7 +11,7 @@
 - [Directories](#directories)
 - [License](#license)
 - [Installation of packages](#install)
-- [Citation](#citation) 
+- [Citation](#Citation) 
 
 
 
@@ -96,7 +96,7 @@ This project is licensed under the [MIT License](https://github.com/Mamun5011/Co
 !sudo update-alternatives --set python3 /usr/bin/python3.10
 ```
 
-### citation
+### Citation
 
 If you use this project in your research, please cite it as follows:
 
